@@ -1,0 +1,7 @@
+Use sc.exe to create service
+
+Create Service
+    sc create <servicename> binpath= "<path to executable>" DisplayName= "service display name" start= auto
+
+Delete Service
+    sc delete servicename
