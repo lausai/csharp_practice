@@ -1,0 +1,4 @@
+*.suo
+*.swp
+ServiceTemplate/obj
+ServiceTemplate/bin
